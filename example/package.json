@@ -1,0 +1,8 @@
+{
+  "name": "calculate-autonomo-irpf-example",
+  "main": "example.js",
+  "version": "1.0.1",
+  "dependencies": {
+    "calculate-autonomo-irpf": "latest"
+  }
+}

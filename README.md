@@ -20,3 +20,5 @@ Output:
   "percentage": 24.27
 }
 ```
+
+See full example [here](https://github.com/Sansossio/calculate-autonomo-irpf/tree/master/example)
