@@ -1,5 +1,7 @@
 const calculate = require('calculate-autonomo-irpf')
 
 console.log(
-  calculate(32000)
+  calculate(
+    +process.argv.slice(2)[0]
+  )
 )

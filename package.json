@@ -1,6 +1,6 @@
 {
   "name": "calculate-autonomo-irpf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/calculate.js",
   "license": "MIT",
   "dependencies": {}
