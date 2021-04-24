@@ -12,6 +12,7 @@ console.log(
 Output:
 ```json
 {
+  "annualGross": 32000,
   "net": {
     "yearly": 24234.50,
     "monthly": 2019.54,
