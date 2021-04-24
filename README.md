@@ -13,8 +13,12 @@ Output:
 ```json
 {
   "net": {
-    "yearly": "€24,234.50",
-    "monthly": "€2,019.54"
+    "yearly": 24234.50,
+    "monthly": 2019.54,
+    "formatted": {
+      "yearly": "€24,234.50",
+      "monthly": "€2,019.54"
+    }
   },
   "totalIrpf": 7765.5,
   "percentage": 24.27
