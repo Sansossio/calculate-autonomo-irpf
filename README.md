@@ -1,4 +1,4 @@
-# Calculate Spain Autonomo IRPF 2021
+# Calculate Spain Autonomo IRPF 2022
 
 Example
 ```js
